@@ -1,0 +1,129 @@
+/* font-family: 'Roboto Slab', serif; */
+
+/* Row Top */
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+.rowtop {
+  background-color: #ed2124;
+  color: white;
+  vertical-align: middle;
+}
+
+.icon1, .icon2 {
+  color: whtie;
+}
+
+.icon1 {
+  margin-left: 20px;  
+}
+
+.socialmedia {
+  color: white;
+}
+
+
+.socialmediaicons {
+  padding-left: 15px; 
+}
+
+
+.yelp, .facebook, .linkedin {
+  margin-left: 20px;
+  color: white;
+}
+
+.navbar {
+  background-color: black; 
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  font-weight: 400;
+}
+
+.logo {
+  width: 80%;
+}
+
+.homepageFood {
+  margin: 2px;
+}
+
+
+.homepageTitle {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.foodPicture {
+  width: 75%;
+}
+
+.imageHeading {
+  font-size: 15px;
+}
+
+.foodDescription {
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  font-size: 10px;
+}
+
+.caterinheading {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.catering {
+  margin: 50px; 
+}
+
+.title {
+  font-weight: bold;
+}
+
+.cateringPhotos {
+  width: 120%;
+  display: inline-block;
+  padding: 5px;
+padding-left: 2.5em;
+
+}
+
+.right {
+  margin-left: 5px;
+}
+
+.left {
+  margin-left: 5px; 
+}
+.photos {
+  width: 40%;
+}
+
+.menufood {
+  width: 60%
+}
+
+.menufood {
+  margin: 10px; 
+}
+.caspian {
+  text-align: center;
+  padding-top: 1em;
+}
+.aboutus-para{
+  padding: 2em;
+  margin-bottom: 3em;
+}
+footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}

@@ -106,13 +106,22 @@ padding-left: 2.5em;
 .photos {
   width: 40%;
 }
-
+#menu {
+  padding: 2em;
+}
 .menufood {
   width: 60%
 }
 
 .menufood {
   margin: 10px; 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.healthy_persian{
+  display: block;
 }
 .caspian {
   text-align: center;
@@ -122,6 +131,22 @@ padding-left: 2.5em;
   padding: 2em;
   margin-bottom: 3em;
 }
+.pdf {
+  color: #ed2124;
+  font-size: 1.5em;
+}
+.fa-file-pdf{
+  color: #ed2124;
+  font-size: 2em;
+}
+
+      /* Set the size of the div element that contains the map */
+      #map {
+        height: 400px;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+        margin-top: 5em;
+       }
+
 footer {
   position: fixed;
   width: 100%;
